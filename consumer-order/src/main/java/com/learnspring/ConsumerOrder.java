@@ -12,7 +12,6 @@ import org.springframework.web.client.RestTemplate;
 @SpringBootApplication
 public class ConsumerOrder {
 
-    //通过该方法 获取指定bean对象
     @Bean
     public RestTemplate getTemplate() {
         return new RestTemplate();

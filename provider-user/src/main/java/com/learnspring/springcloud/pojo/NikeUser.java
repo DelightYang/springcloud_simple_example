@@ -9,7 +9,6 @@ public class NikeUser {
 
     public NikeUser(int id) {
         this.id = id;
-//        这里是直接指定了一个用户名
         this.name = "Admin";
     }
 

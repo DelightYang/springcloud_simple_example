@@ -3,6 +3,6 @@ server:
 spring:
   application:
     name: consumer-order
-#    在这里配置OrderController中的URL
+#    config url for orderController
 user:
   url: http://localhost:8080/user/
