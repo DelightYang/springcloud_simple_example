@@ -1,7 +1,5 @@
 package com.learnspring.springcloud;
 
-// 注意，这里的User对象不要调用错了，为防止调用错，可以自定义一个User类名
-
 import com.learnspring.pojo.NikeUser;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
