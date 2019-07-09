@@ -1,0 +1,6 @@
+server:
+  port: 8080 # 访问端口 , tomcat端口号
+
+spring:
+  application:
+    name: provider-user # 应用名称
